@@ -1,0 +1,41 @@
+﻿“E-Commerce Product Listing App”
+Subtitle or Description:
+A simple React project to display products dynamically using components, props, and state.
+Presented by:
+Jazmin Robinson (← Your name!)
+________________
+
+
+ ✅  
+Slide 2: Project Overview
+Description:
+This React-based project displays a list of products using a three-component structure: App, ProductList, and ProductItem. It emphasizes data flow via props, state management, and custom CSS styling.
+________________
+
+
+ ✅  
+Slide 3: Component Breakdown
+1. App Component
+   * Stores product data in state
+   * Passes data as props
+   * Handles layout with custom CSS
+2. ProductList Component
+   * Receives product list via props
+   * Uses .map() to render each ProductItem
+3. ProductItem Component
+   * Displays individual product info (name, price, description)
+   * Uses props to render dynamically
+________________
+
+
+ ✅  
+Slide 4: Key Skills Practiced
+* React Functional Components
+* useState Hook
+* Props for Data Flow
+* Dynamic Rendering with .map()
+* Custom CSS Styling
+  
+
+	ReplyForward
+Add reaction

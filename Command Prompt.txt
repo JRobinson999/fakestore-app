@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.26100.4061]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\robin>node -v
+v22.16.0
+
+C:\Users\robin>nmp -v
+'nmp' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\robin>npx -v
+10.9.2
+
+C:\Users\robin>cd todo-list-appcd cd
+The system cannot find the path specified.
+
+C:\Users\robin>

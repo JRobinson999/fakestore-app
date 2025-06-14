@@ -1,0 +1,24 @@
+Readme
+# Trivia Database Quiz App
+
+This is a simple **Quiz App** built with **React**. Users can:
+- Enter their name
+- Choose a category and difficulty level
+- Take a multiple-choice quiz using real questions from the **Open Trivia Database API**
+
+## 🚀 Features
+✅ Dynamic quiz questions based on user input
+✅ Real-time feedback on answers
+✅ Score tracking
+✅ Final score display when the quiz is complete
+
+## 🛠 Technologies Used
+- React
+- HTML / CSS
+- Open Trivia DB API
+
+## 💻 Getting Started
+
+### Install dependencies
+```bash
+npm install
